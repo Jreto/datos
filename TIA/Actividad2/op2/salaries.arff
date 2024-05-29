@@ -32,7 +32,6 @@ M,18881.74,'Department of Public Libraries','Long Branch Library',Parttime-Regul
 F,42053.83,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',2014
 F,21766.2,'Department of Police','FSB Traffic Division School Safety Section',Parttime-Regular,'Crossing Guard',2004
 F,17269,'Department of Health and Human Services','Community Support Network for People with Disabilities',Parttime-Regular,'Office Clerk',2010
-?,58000,'Department of Recreation','Neighborhood Senior Centers - Northern',Fulltime-Regular,'Recreation Specialist',2016
 M,65699.03,'Department of General Services','Fleet Automotive Heavy Equipment',Fulltime-Regular,'Mechanic Technician II',2007
 M,156516.65,'Department of Finance','Information Technology',Fulltime-Regular,'Manager II',2005
 M,27805.44,'Department of Liquor Control',Kingsview,Parttime-Regular,'Liquor Store Clerk I',2016
@@ -2056,7 +2055,6 @@ F,39257,'Department of Police','MSB Communications Division',Fulltime-Regular,'P
 F,40534.48,'Department of Health and Human Services','School Health Services',Parttime-Regular,'School Health Room Technician I',2007
 F,49829.48,'Department of Health and Human Services','School Health Services',Parttime-Regular,'School Health Room Technician I',2001
 M,70396,'Fire and Rescue Services','Station 35',Fulltime-Regular,'Firefighter/Rescuer III',2005
-?,42000,'Department of General Services','Central Duplicating',Fulltime-Regular,'Printing Technician III',2016
 M,27799.2,'Department of Liquor Control','Seneca Meadows',Parttime-Regular,'Liquor Store Clerk I',2016
 F,105743.92,'Office of Procurement','Procurement Operations Section',Fulltime-Regular,'Procurement Specialist IV',1995
 M,55123.38,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',2004
@@ -2332,7 +2330,6 @@ F,46516.83,'Department of Health and Human Services','School Health Services',Pa
 M,105743.92,'Department of Transportation','Traffic Engineering Studies Section',Fulltime-Regular,'Senior Planning Specialist',1990
 M,68054,'Department of Police','PSB 4th District Patrol',Fulltime-Regular,'Police Officer III',2010
 F,19060.64,'Department of Police','FSB Traffic Division School Safety Section',Parttime-Regular,'Crossing Guard',2008
-?,53788,'Department of Police','PSB 2nd District Patrol',Fulltime-Regular,'Police Officer III',2014
 F,86359.62,'Correction and Rehabilitation','DS Food Services',Fulltime-Regular,'Correctional Dietary Supervisor',1989
 M,66065.23,'Department of Transportation','Transit Silver Spring Ride On',Fulltime-Regular,'Bus Operator',1990
 M,88859,'Fire and Rescue Services','Station 26',Fulltime-Regular,'Master Firefighter/Rescuer',1998
@@ -4293,7 +4290,6 @@ F,48260.15,'Department of Transportation','Transit Gaithersburg Ride On',Fulltim
 M,64141,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',1999
 M,66639.25,'Department of Health and Human Services','Adult Drug Court',Fulltime-Regular,'Therapist II',2012
 M,95187.98,'Fire and Rescue Services','Station 34',Fulltime-Regular,'Master Firefighter/Rescuer',1985
-?,44175,'Department of Health and Human Services','Infants and Toddlers',Fulltime-Regular,'Program Aide',2016
 F,29779.07,'Department of Liquor Control','Leisure World',Parttime-Regular,'Liquor Store Clerk I',2010
 F,97912,'Department of Health and Human Services','School Health Services',Fulltime-Regular,'Community Health Nurse II',2000
 F,70402.55,'Board of Elections','Election Judge Recruitment',Fulltime-Regular,'Administrative Specialist I',2006
@@ -4675,7 +4671,6 @@ M,35038.55,'Department of Liquor Control','Beer Delivery Operations',Fulltime-Re
 F,58939.38,'Department of Police','ISB Criminal Investigations Division Forensic Services Section',Fulltime-Regular,'Forensics Specialist I',2010
 M,110229,'Fire and Rescue Services','Fifth Battalion - Administration',Fulltime-Regular,'Fire/Rescue Captain',1999
 F,52358.64,'Department of Health and Human Services','Special Projects - Linkages to Learning',Parttime-Regular,'Social Worker IV',1986
-?,39257,'Department of Police','MSB Communications Division',Fulltime-Regular,'Public Safety Communications Specialist III',2016
 F,97676.37,'Department of Health and Human Services','Adult Protective Services - Nurse Assessment',Fulltime-Regular,'Community Health Nurse II',2007
 M,52000,'County Council','Council Members and Staff',Fulltime-Regular,'Public Administration Intern',2016
 F,41569.82,'Department of Health and Human Services','Adult Behavioral Health Services',Parttime-Regular,'Therapist II',2004
@@ -4900,7 +4895,6 @@ M,90045.25,'Department of Transportation','Parking Management Financial Manageme
 M,45049.12,'Department of Transportation','Transit Silver Spring Ride On',Fulltime-Regular,'Bus Operator',2012
 M,21485.7,'Department of Public Libraries','Cataloging and Preparation',Parttime-Regular,'Library Technician',1990
 M,45261,'Fire and Rescue Services','Recruit Training',Fulltime-Regular,'Firefighter/Rescuer III',2016
-?,86225,'Department of Transportation','Traffic Engineering and Operations Management Services',Fulltime-Regular,'Information Technology Specialist III',2016
 M,45048.5,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',2012
 M,85405,'Sheriff\'s Office','Court and Transport',Fulltime-Regular,'Deputy Sheriff III',1999
 M,61384.75,'Department of General Services','Fleet Automotive Heavy Equipment',Fulltime-Regular,'Mechanic Technician II',2012
@@ -5378,14 +5372,12 @@ M,16049,'Department of Police','MSB Personnel Division',Parttime-Regular,'Police
 M,104717.28,'Department of Health and Human Services','Community Outreach',Fulltime-Regular,'Program Manager II',1993
 F,40534.48,'Department of Health and Human Services','School Health Services',Parttime-Regular,'School Health Room Technician I',2006
 F,44694.45,'Fire and Rescue Services','Emergency Communications Center (ECC)',Fulltime-Regular,'Public Safety Communications Specialist III',2015
-?,23920,'Community Use of Public Facilities','Community Use of Public Facilities',Parttime-Regular,'Principal Administrative Aide',2016
 F,44598.62,'Department of Permitting Services','Zoning and Site Plan Enforcement',Fulltime-Regular,'Permit Technician III',2012
 F,62430.09,'Department of Health and Human Services','Income Supports',Fulltime-Regular,'Income Assistance Program Specialist II',2005
 F,56306.54,'Department of Health and Human Services','Medical Assistance Eligibility Services',Fulltime-Regular,'Income Assistance Program Specialist II',2007
 M,45261,'Fire and Rescue Services','Recruit Training',Fulltime-Regular,'Firefighter/Rescuer III',2016
 F,64349.41,'Department of Public Libraries','Silver Spring Library',Fulltime-Regular,'Librarian II',2014
 M,43814.23,'Department of Liquor Control','Beer Delivery Operations',Fulltime-Regular,'Truck Driver/Warehouse Worker',2007
-?,57230,'Department of Health and Human Services','Emergency Housing Assistance',Fulltime-Regular,'Social Worker II',2016
 F,100849.36,'Department of Health and Human Services','Child Welfare Services',Fulltime-Regular,'Social Worker III',1992
 F,73801,'Department of Police','HQ Office of the Chief',Fulltime-Regular,'Senior Executive Administrative Aide',1997
 F,76217.81,'Department of Health and Human Services','Montgomery Cares - Homeless',Fulltime-Regular,'Community Health Nurse II',2014
@@ -6507,7 +6499,6 @@ M,59638,'Department of Police','PSB 4th District Patrol',Fulltime-Regular,'Polic
 M,77328,'Correction and Rehabilitation','DS MCCF Unit 3 Security',Fulltime-Regular,'Correctional Officer III (Corporal)',2001
 M,38020.38,'Department of Transportation','Highway Services',Fulltime-Regular,'Equipment Operator I',2015
 M,57265,'Fire and Rescue Services','Station 26',Fulltime-Regular,'Firefighter/Rescuer III',2012
-?,56733,'Correction and Rehabilitation','DS MCCF Unit 1 Security',Fulltime-Regular,'Correctional Officer III (Corporal)',2013
 M,77397.73,'Department of Permitting Services','Fire Code Compliance',Fulltime-Regular,'Permitting and Code Enforcement Inspector III',2014
 M,97912,'Department of General Services','Facilities Maintenance',Fulltime-Regular,'Property Manager II',2006
 M,65382,'Fire and Rescue Services','Station 29',Fulltime-Regular,'Firefighter/Rescuer III',2012
@@ -7439,7 +7430,6 @@ M,45261,'Fire and Rescue Services','Recruit Training',Fulltime-Regular,'Firefigh
 M,97392.47,'Department of Police','PSB 5th District Patrol',Fulltime-Regular,'Master Police Officer',1995
 M,53788,'Department of Police','PSB 3rd District Patrol',Fulltime-Regular,'Police Officer III',2014
 M,65716,'Fire and Rescue Services','Station 3',Fulltime-Regular,'Firefighter/Rescuer III',2007
-?,65105,'Correction and Rehabilitation','DS MCDC Custody and Security',Fulltime-Regular,'Correctional Officer III (Corporal)',2006
 M,107128.71,'Department of Police','PSB 5th District Patrol',Fulltime-Regular,'Police Sergeant',1996
 F,91805,'Department of Health and Human Services','School Based Health Centers',Fulltime-Regular,'Community Health Nurse II',2008
 F,30257.86,'Department of Public Libraries','Gaithersburg Library',Parttime-Regular,'Library Associate II',2007
@@ -8117,7 +8107,6 @@ M,68080.73,'Department of Liquor Control','Clarksburg Village',Fulltime-Regular,
 M,68080.73,'Department of Liquor Control','Chevy Chase Center',Fulltime-Regular,'Liquor Store Assistant Manager',1999
 M,62903,'Correction and Rehabilitation','DS MCDC Custody and Security',Fulltime-Regular,'Correctional Officer III (Corporal)',2007
 M,46626.08,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',2008
-?,39257,'Department of Police','MSB Communications Division',Fulltime-Regular,'Public Safety Communications Specialist III',2016
 M,36363.35,'Department of Liquor Control','Stock Liquor and Wine Warehouse Operations',Fulltime-Regular,'Supply Technician III',2013
 M,107128.71,'Department of Police','HQ Office of the Chief Internal Affairs Division',Fulltime-Regular,'Police Sergeant',1990
 M,84974,'Department of Recreation','Countywide Programs Sports',Fulltime-Regular,'Recreation Specialist',2000
@@ -8343,7 +8332,6 @@ M,50910,'Fire and Rescue Services','Station 18',Fulltime-Regular,'Firefighter/Re
 M,76910.33,'Department of Permitting Services','Fire Protection',Fulltime-Regular,'Permitting and Code Enforcement Inspector III',2015
 M,81066,'Department of General Services','Central Duplicating',Fulltime-Regular,'Print Shop Foreman',1977
 M,93396,'Department of Transportation','Transit Services Information Technology',Fulltime-Regular,'Information Technology Specialist II',2015
-?,39257,'Department of Police','MSB Communications Division',Fulltime-Regular,'Public Safety Communications Specialist III',2016
 M,53847.9,'Offices of the County Executive',CountyStat,Fulltime-Regular,'Senior Management and Budget Specialist',2016
 M,103506,'Department of Police','PSB 3rd District Patrol',Fulltime-Regular,'Police Sergeant',1997
 M,63345,'Fire and Rescue Services','Station 16',Fulltime-Regular,'Firefighter/Rescuer III',2012
@@ -8488,7 +8476,6 @@ F,50539.21,'Office of Public Information',MC311,Fulltime-Regular,'Customer Servi
 M,91751.37,'Correction and Rehabilitation','DS MCCF Case Managers Unit 3',Fulltime-Regular,'Correctional Specialist II',1992
 F,58516.53,'Department of Police','FSB Security Services Division',Fulltime-Regular,'Security Officer I',2005
 F,67206,'Department of Finance','Tax Operations',Fulltime-Regular,'Office Services Coordinator',1998
-?,74000,'Department of Health and Human Services','Child Welfare Services',Fulltime-Regular,'Social Worker II',2016
 M,84022.63,'Department of Transportation','Traffic Engineering Studies Section',Fulltime-Regular,'Program Specialist II',1996
 M,67384,'Correction and Rehabilitation','DS MCCF Unit 2 Security',Fulltime-Regular,'Correctional Officer III (Corporal)',2005
 F,58186.12,'Department of Health and Human Services','Income Supports',Parttime-Regular,'Program Manager II',2013
@@ -8496,7 +8483,6 @@ M,74713,'Correction and Rehabilitation','DS MCDC Custody and Security',Fulltime-
 F,73040.62,'Ethics Commission','Administrative Support',Fulltime-Regular,'Program Specialist II',2014
 M,97392.47,'Department of Police','HQ Office of the Chief',Fulltime-Regular,'Master Police Officer',1994
 F,48222.51,'Department of Health and Human Services','Community Action Agency',Fulltime-Regular,'Community Services Aide III',2015
-?,41900,'Department of Health and Human Services','Infants and Toddlers',Fulltime-Regular,'Program Aide',2016
 M,70422,'Department of General Services','Fleet Management Fleet Services',Fulltime-Regular,'Autobody Repairer',1997
 F,18247.04,'Department of Public Libraries','Germantown Library',Parttime-Regular,'Library Aide',2006
 F,95180.83,'Department of Permitting Services','Land Development Right-of-Way Inspection',Fulltime-Regular,'Program Manager II',1988
@@ -8817,7 +8803,6 @@ F,55200,'Department of Recreation','Management Services',Fulltime-Regular,'Admin
 M,76716,'Fire and Rescue Services','Station 22',Fulltime-Regular,'Firefighter/Rescuer III',2006
 M,58455,'Department of Police','PSB 4th District Patrol',Fulltime-Regular,'Police Officer III',2013
 F,97676.37,'Department of Health and Human Services','Area Health Centers',Fulltime-Regular,'Community Health Nurse II',2007
-?,41200,'Department of Health and Human Services','Infants and Toddlers',Fulltime-Regular,'Program Aide',2016
 M,89620,'Department of Police','ISB Criminal Investigations Division Central Auto Theft Section',Fulltime-Regular,'Police Officer III',2001
 F,64141,'Department of Transportation','Transit Gaithersburg Ride On',Fulltime-Regular,'Bus Operator',1998
 M,70301,'Correction and Rehabilitation','DS MCDC Central Processing Unit',Fulltime-Regular,'Correctional Officer III (Corporal)',2000
@@ -8975,7 +8960,6 @@ M,78052,'Fire and Rescue Services','Station 34',Fulltime-Regular,'Firefighter/Re
 M,102664,'Department of General Services','Real Estate Office',Fulltime-Regular,'Real Estate Specialist III',2015
 M,95933.26,'Department of Police','ISB Criminal Investigations Division Forensic Services Section',Fulltime-Regular,'Forensic Firearms/Toolmark Examiner',2012
 M,125888.36,'Department of Transportation','Transportation Property Acquisition Section',Fulltime-Regular,'Manager III',2002
-?,42425,'Department of Health and Human Services','Infants and Toddlers',Fulltime-Regular,'Program Aide',2016
 F,102664,'Department of Health and Human Services','Early Childhood Services',Fulltime-Regular,'Program Manager II',2000
 M,77343,'Department of General Services','Facilities Maintenance',Fulltime-Regular,'Plumber II',2003
 F,27272,'Department of Public Libraries','Damascus Library',Parttime-Regular,'Library Assistant I',1994
@@ -9108,7 +9092,6 @@ M,103708.64,'Correction and Rehabilitation','DS MCCF Unit 3 Security',Fulltime-R
 M,62585,'Fire and Rescue Services','Station 1',Fulltime-Regular,'Firefighter/Rescuer III',2007
 F,79573.39,'Department of Permitting Services','Land Development Right-of-Way Plan Review',Fulltime-Regular,'Senior Permitting Services Specialist',2015
 F,80103.88,'Department of Finance','General Accounting',Fulltime-Regular,'Accountant/Auditor III',2015
-?,40935,'Department of Health and Human Services','Planning, Accountability and Customer Service',Fulltime-Regular,'Office Services Coordinator',2016
 F,96197.88,'Department of Health and Human Services','Fiscal Team',Fulltime-Regular,'Accountant/Auditor III',1986
 F,58448,'Department of Health and Human Services','School Health Services',Fulltime-Regular,'Principal Administrative Aide',1998
 M,141063.02,'Department of Police','Management Services Bureau',Fulltime-Regular,'Police Captain',1988
